@@ -15,9 +15,15 @@ public class MyTest {
         System.out.println("master test");
         System.out.println("啦啦啦啦啦");
         System.out.println("嘟嘟嘟嘟");
+        System.out.println("fycccccccccccc");
+        System.out.println("fycccccccccccc");
+        System.out.println("fycccccccccccc");
         int n1 = 100;
         for (int i = 0; i < n1; i++) {
             System.out.println("i = " + i);
         }
     }
+
+
+
 }
