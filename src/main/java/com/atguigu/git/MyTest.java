@@ -22,6 +22,9 @@ public class MyTest {
         for (int i = 0; i < n1; i++) {
             System.out.println("i = " + i);
         }
+        System.out.println("冯意辰");
+        System.out.println("冯意辰");
+        System.out.println("冯意辰");
     }
 
 
