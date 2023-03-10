@@ -13,5 +13,7 @@ public class MyTest {
     public static void main(String[] args) {
         System.out.println("111");
         System.out.println("master test");
+        System.out.println("啦啦啦啦啦");
+        System.out.println("嘟嘟嘟嘟");
     }
 }
